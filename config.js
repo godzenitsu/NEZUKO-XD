@@ -16,12 +16,12 @@ module.exports = {
   LANG: process.env.LANG || "EN",
   HANDLERS: process.env.PREFIX || '^[.]',
   BRANCH: "master",
-  STICKER_DATA: process.env.STICKER_DATA || "𝐙𝐞𝐭𝐚-𝐗𝐃;𝐁𝐚𝐝𝐚𝐧 𝐬𝐞𝐫⚇",
-  BOT_INFO: process.env.BOT_INFO || "𝐄𝐳𝐫𝐚𝐡𝐡-𝐗𝐃;𝐙𝐞𝐭𝐚𝐡𝐡;https://i.imgur.com/nAkM1zV.mp4",
-  AUDIO_DATA: process.env.AUDIO_DATA || "𝐳𝐞𝐭𝐚𝐚𝐡𝐡;𝐞𝐳𝐫𝐚𝐚𝐡𝐡-𝐱𝐝;https://i.imgur.com/Ou56ggv.jpeg",
+  STICKER_DATA: process.env.STICKER_DATA || "𝗤𝗨𝗘𝗘𝗡 𝗡𝗘𝗭𝗨𝗞𝗢;𝗚𝗢𝗗 𝗭𝗘𝗡𝗜𝗧𝗦𝗨⚇",
+  BOT_INFO: process.env.BOT_INFO || "𝗤𝗨𝗘𝗘𝗡 𝗡𝗘𝗭𝗨𝗞𝗢;𝗚𝗢𝗗 𝗭𝗘𝗡𝗜𝗧𝗦𝗨;https://i.imgur.com/4acVqY7.jpeg",
+  AUDIO_DATA: process.env.AUDIO_DATA || "𝗚𝗢𝗗 𝗭𝗘𝗡𝗜𝗧𝗦𝗨;𝗤𝗨𝗘𝗘𝗡 𝗡𝗘𝗭𝗨𝗞𝗢;https://i.imgur.com/4acVqY7.jpeg",
   ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
-  CAPTION: process.env.CAPTION || "𝐳𝐞𝐭𝐚𝐚𝐡𝐡👁️!",
-  WORK_TYPE: process.env.WORK_TYPE || "private",
+  CAPTION: process.env.CAPTION || "𝗚𝗢𝗗 𝗭𝗘𝗡𝗜𝗧𝗦𝗨🌀!",
+  WORK_TYPE: process.env.WORK_TYPE || "public",
   DATABASE_URL: DATABASE_URL,
   DATABASE:
     DATABASE_URL === "./lib/database.db"
