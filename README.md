@@ -1,6 +1,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## Ezra-XD Whatsapp Bot
-Ezra-XD - Simple whatsapp Multi Device bot based on 
+## QUEEN NEZUKO Whatsapp Bot
+QUEEN NEZUKO- Simple whatsapp Multi Device bot based on 
 Xasena 
 
 ***
@@ -27,7 +27,7 @@ Xasena
 
 ***
 * Join Group For Help
-<a href="https://chat.whatsapp.com/IZAC43MRvbfClp1nctIOA9"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://chat.whatsapp.com/DcGABEejUwOG8YcgGOcizF"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 
 
@@ -52,8 +52,8 @@ Xasena
 
 <br>
 
-* [`SPARKY`](https://github.com/A-S-W-I-N-S-P-A-R-K-Y)
-* [`LOKI`](https://github.com/Loki-xer)
+* [`ZENITSU`](https://github.com/Dinkenser12)
+* [`NEZUKO`](NULL)
 
 
  </details>
