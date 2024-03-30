@@ -4,7 +4,7 @@ const { Image } = require("node-webpmux");
 /* Copyright (C) 2024 Louis-X0.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+NEZUKO - ZENITSU-X0
 */
 
 command(
@@ -17,7 +17,7 @@ command(
     async (message, match) => {
     	
     	
-   if (!match)return message.reply(`*_Need a text_*`)
+   if (!match)return message.reply(`*_TEXT THA FUNDE🐦_*`)
 let buff = await getBuffer(`https://vihangayt.me/maker/text2gif?q=${match}`);
     await message.sendMessage(
       buff,
@@ -30,7 +30,7 @@ let buff = await getBuffer(`https://vihangayt.me/maker/text2gif?q=${match}`);
 /* Copyright (C) 2024 Louis-X0.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-XD
+NEZUKO - ZENITSU
 */
 
 
@@ -49,16 +49,16 @@ command(
       listall("Ezra").forEach((txt, num) => {
         text += `${(num += 1)} ${txt}\n`;
       });
-        text += "\n\n𝐄𝐙𝐑𝐀-𝐗𝐃"
+        text += "\n\𝗭𝗘𝗡𝗜𝗧𝗦𝗨"
       return await message.client.sendMessage(message.jid,{ document :{ url: "https://www.mediafire.com/file/n1qjfxjgvt0ovm2/IMG-20240211-WA0086_%25281%2529.pdf/file" }, fileName: "𝗘𝗭𝗥𝗔 𝗙𝗔𝗡𝗖𝗬 𝗠𝗘𝗡𝗨" , mimetype: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", fileLength: "999999950", contextInfo: { externalAdReply: {
-title: "𝐄𝐙𝐑𝐀-𝐗𝐃",
+title: "𝗚𝗢𝗗 𝗭𝗘𝗡𝗜𝗧𝗦𝗨",
 body: "",
 sourceUrl: "",
 mediaUrl: "",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/Ou56ggv.jpeg" }}, caption: (text)}, {quoted: message });
+thumbnailUrl: "https://i.imgur.com/PRKcWJ0.jpeg" }}, caption: (text)}, {quoted: message });
     } else {
       message.reply(styletext(message.reply_message.text, parseInt(match)));
     }
@@ -86,14 +86,14 @@ command(
     message.sendMessage(
       buff,
       { packname: config.STICKER_DATA.split(";")[0], author: config.STICKER_DATA.split(";")[1], contextInfo: { externalAdReply: {
-title: "𝐄𝐙𝐑𝐀-𝐗𝐃",
+title: "𝗡𝗘𝗭𝗨𝗞𝗢",
 body: "𝘾𝙤𝙣𝙫𝙚𝙧𝙩𝙚𝙙 𝙄𝙣𝙩𝙤 𝙎𝙩𝙞𝙘𝙠𝙚𝙧",
 sourceUrl: "",
 mediaUrl: "",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/Ou56ggv.jpeg" }} },
+thumbnailUrl: "https://i.imgur.com/PRKcWJ0.jpeg" }} },
       "sticker"
     );
   }
@@ -167,14 +167,14 @@ command(
       {
         packname: packname || config.STICKER_DATA.split(";")[0],
         author: author || config.STICKER_DATA.split(";")[1], contextInfo: { externalAdReply: {
-title: "𝐄𝐙𝐑𝐀-𝐗𝐃",
+title: "𝗤𝗨𝗘𝗘𝗡 𝗡𝗘𝗭𝗨𝗞𝗢",
 body: `𝙏𝙖𝙠𝙚𝙙 𝙏𝙤 ${match}`,
 sourceUrl: "",
 mediaUrl: "",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/Ou56ggv.jpeg" }}
+thumbnailUrl: "https://i.imgur.com/PRKcWJ0.jpeg" }}
       },
       "sticker"
     );
