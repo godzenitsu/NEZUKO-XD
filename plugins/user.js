@@ -61,7 +61,7 @@ command(
       return await message.reply("*_Reply to a photo_*");
     let media = await m.quoted.download();
     await updateProfilePicture(message.user, media, message);
-    return await message.reply("*_Profile Picture Updated_*");
+    return await message.reply("*_Profile Picture Update chythu_*");
   }
 );
 
@@ -317,15 +317,15 @@ command(
       if (desc) menu += `\n│  Use: \`\`\`${desc}\`\`\``;
       menu += `\n│\n`;
     });
-    menu += `╰───────┈┫「 𝐄𝐙𝐑𝐀-𝐗𝐃-𝐁𝐎𝐓 」┣┈────♡`;
+    menu += `╰───────┈┫「 𝗤𝗨𝗘𝗘𝗡 𝗡𝗘𝗭𝗨𝗞𝗢 」┣┈────♡`;
     return await message.reply(message.jid, { text: (tiny(menu)), contextInfo: { externalAdReply: {
-title: "𝚵𝚭𝚪𝚫-𝚾𝐃",
+title: "𝗤𝗨𝗘𝗘𝗡 𝗡𝗘𝗭𝗨𝗞𝗢",
 sourceUrl: "",
-mediaUrl: "https://instagram.com/abhiiiiiyh",
+mediaUrl: "https://instagram.com/whoois.zenitsu",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/PlDhcfI.jpeg" }} }) })
+thumbnailUrl: "https://i.imgur.com/PRKcWJ0.jpeg" }} }) })
 
 
 
