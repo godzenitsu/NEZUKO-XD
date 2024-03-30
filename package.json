@@ -1,7 +1,7 @@
 {
-  "name": "Ezra-XD",
+  "name": "Nezuko-XD",
   "version": "1.0.0",
-  "description": "Ezra-md simple multi device WhatsApp Bot.",
+  "description": "queen nezuko simple multi device WhatsApp Bot.",
   "main": "./index.js",
   "type": "commonjs",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Louis-X0/EZRA-XD.git"
+    "url": "git+https://github.com/godzenitsu/NEZUKO-XD.git"
   },
   "keywords": [
     "bot",
@@ -18,13 +18,13 @@
     "Louis",
     "sparkyapi"
   ],
-  "author": "Louis",
-  "developer": "Louis / Zeta",
+  "author": "ZENITSU",
+  "developer": "GOD ZENITSU",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Louis-X0/EZRA-XD/issues"
+    "url": "https://github.com/godzenitsu/NEZUKO-XD/issues"
   },
-  "homepage": "https://github.com/Louis-XD/EZRA-XD#readme",
+  "homepage": "https://github.com/godzenitsu/NEZUKO-XD#readme",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.6.0",
     "@adiwajshing/keyed-db": "^0.2.4",
