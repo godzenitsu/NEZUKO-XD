@@ -1,7 +1,7 @@
 const config = require("../config");
 const { command, isPrivate, getJson, sleep, tiny, getBuffer, styletext, listall } = require("../lib/");
 const { Image } = require("node-webpmux");
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2024 zenitsu-X0.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 NEZUKO - ZENITSU-X0
@@ -50,7 +50,7 @@ command(
         text += `${(num += 1)} ${txt}\n`;
       });
         text += "\n\𝗭𝗘𝗡𝗜𝗧𝗦𝗨"
-      return await message.client.sendMessage(message.jid,{ document :{ url: "https://www.mediafire.com/file/n1qjfxjgvt0ovm2/IMG-20240211-WA0086_%25281%2529.pdf/file" }, fileName: "𝗘𝗭𝗥𝗔 𝗙𝗔𝗡𝗖𝗬 𝗠𝗘𝗡𝗨" , mimetype: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", fileLength: "999999950", contextInfo: { externalAdReply: {
+      return await message.client.sendMessage(message.jid,{ document :{ url: "https://www.mediafire.com/file/n1qjfxjgvt0ovm2/IMG-20240211-WA0086_%25281%2529.pdf/file" }, fileName: "𝗡𝗘𝗭𝗨𝗞𝗢 𝗙𝗔𝗡𝗖𝗬 𝗠𝗘𝗡𝗨" , mimetype: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", fileLength: "999999950", contextInfo: { externalAdReply: {
 title: "𝗚𝗢𝗗 𝗭𝗘𝗡𝗜𝗧𝗦𝗨",
 body: "",
 sourceUrl: "",
@@ -93,7 +93,7 @@ mediaUrl: "",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/PRKcWJ0.jpeg" }} },
+thumbnailUrl: "https://i.imgur.com/xZ45hxR.jpeg" }} },
       "sticker"
     );
   }
@@ -174,7 +174,7 @@ mediaUrl: "",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/PRKcWJ0.jpeg" }}
+thumbnailUrl: "https://i.imgur.com/xZ45hxR.jpeg" }}
       },
       "sticker"
     );
