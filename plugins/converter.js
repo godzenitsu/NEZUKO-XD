@@ -27,7 +27,7 @@ let buff = await getBuffer(`https://vihangayt.me/maker/text2gif?q=${match}`);
 });
 
 
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2024 zenitsu.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 NEZUKO - ZENITSU
@@ -66,7 +66,7 @@ thumbnailUrl: "https://i.imgur.com/PRKcWJ0.jpeg" }}, caption: (text)}, {quoted: 
 );
 
 
-/* Copyright (C) 2024 Louis-XD.
+/* Copyright (C) 2024 zenitsu.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 Louis-XD - Zeta-XD
@@ -99,10 +99,10 @@ thumbnailUrl: "https://i.imgur.com/xZ45hxR.jpeg" }} },
   }
 );
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+NEZUKO/ZENITSU
 */
 
 command(
@@ -144,10 +144,10 @@ command(
   }
 );
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 GOD ZENITSU.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+NEZUKO/ZENITSU
 */
 
 command(
@@ -181,10 +181,10 @@ thumbnailUrl: "https://i.imgur.com/xZ45hxR.jpeg" }}
   }
 );
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 GOD ZENITSU.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+NEZUKO/ZENITSU
 */
 
 command(
