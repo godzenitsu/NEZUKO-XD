@@ -131,7 +131,7 @@ mediaUrl: "",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/PRKcWJ0.jpeg" }}, caption: (match)}, {quoted: message })
+thumbnailUrl: "https://i.imgur.com/sPBOwto.jpeg" }}, caption: (match)}, {quoted: message })
       } else if(message.reply_message.image){
       await message.client.sendMessage(message.jid, { image :res ,  mimetype:"image/jpeg", contextInfo: { externalAdReply: {
 title: "𝗤𝗨𝗘𝗘𝗡 𝗡𝗘𝗭𝗨𝗞𝗢",
@@ -141,7 +141,7 @@ mediaUrl: "",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/PRKcWJ0.jpeg" }}, caption: (match)}, {quoted: message })
+thumbnailUrl: "https://i.imgur.com/sPBOwto.jpeg" }}, caption: (match)}, {quoted: message })
 }
   }
   );
@@ -175,7 +175,7 @@ mediaUrl: "",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/PRKcWJ0.jpeg" }}, caption: (config.CAPTION), quoted: message }, "image")
+thumbnailUrl: "https://i.imgur.com/sPBOwto.jpeg" }}, caption: (config.CAPTION), quoted: message }, "image")
   }
 );
 
@@ -207,7 +207,7 @@ mediaUrl: "",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/PRKcWJ0.jpeg" }}, caption: (config.CAPTION), quoted: message }, "video")
+thumbnailUrl: "https://i.imgur.com/xZ45hxR.jpeg" }}, caption: (config.CAPTION), quoted: message }, "video")
   }
 );
 
@@ -237,7 +237,7 @@ mediaUrl: "",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/PRKcWJ0.jpeg" }}, quoted: message }, "audio");
+thumbnailUrl: "https://i.imgur.com/xZ45hxR.jpeg" }}, quoted: message }, "audio");
   }
 );
 
@@ -262,7 +262,7 @@ mediaUrl: "",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/PRKcWJ0.jpeg" }}, caption: (config.CAPTION)},{ quoted: message });
+thumbnailUrl: "https://i.imgur.com/sPBOwto.jpeg" }}, caption: (config.CAPTION)},{ quoted: message });
    } else if(message.reply_message.video){
     let buff = await m.quoted.download();
    await message.client.sendMessage(message.jid, { video: buff, gifPlayback: true, contextInfo: { externalAdReply: {
@@ -273,7 +273,7 @@ mediaUrl: "",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/PRKcWJ0.jpeg" }}, caption: (config.CAPTION)},{ quoted: message });
+thumbnailUrl: "https://i.imgur.com/xZ45hxR.jpeg" }}, caption: (config.CAPTION)},{ quoted: message });
   }
   }
 );
