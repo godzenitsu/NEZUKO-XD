@@ -25,7 +25,7 @@ mediaUrl: "",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/PRKcWJ0.jpeg" }} }, {quoted: message })
+thumbnailUrl: "https://i.imgur.com/xZ45hxR.jpeg" }} }, {quoted: message })
     }
     );
 
@@ -50,7 +50,7 @@ mediaUrl: "",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/PRKcWJ0.jpeg" }}, caption: `*${result.title}*`}, {quoted: message })
+thumbnailUrl: "https://i.imgur.com/xZ45hxR.jpeg" }}, caption: `*${result.title}*`}, {quoted: message })
     });
 
 // Zeta-XD 
@@ -73,7 +73,7 @@ mediaUrl: "",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/PRKcWJ0.jpeg" }}, }, {quoted: message })
+thumbnailUrl: "https://i.imgur.com/xZ45hxR.jpeg" }}, }, {quoted: message })
     }
     );
 
@@ -95,7 +95,7 @@ mediaUrl: "",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/PRKcWJ0.jpeg" }}, caption : (X.CAPTION)}, {quoted : message})
+thumbnailUrl: "https://i.imgur.com/xZ45hxR.jpeg" }}, caption : (X.CAPTION)}, {quoted : message})
 });
 
 
@@ -121,11 +121,11 @@ mediaUrl: "",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/PRKcWJ0.jpeg" }}, }, {quoted: message })
+thumbnailUrl: "https://i.imgur.com/xZ45hxR.jpeg" }}, }, {quoted: message })
     }
     );
 
-// Zeta Kunda // */
+// ZENITSU GOD// */
 command(
   {
     pattern: "insta",
@@ -185,6 +185,6 @@ mediaUrl: "",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/PRKcWJ0.jpeg" }}, caption: (X.CAPTION)}, {quoted: message})
+thumbnailUrl: "https://i.imgur.com/xZ45hxR.jpeg" }}, caption: (X.CAPTION)}, {quoted: message})
     }
     );
