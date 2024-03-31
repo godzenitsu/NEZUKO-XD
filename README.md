@@ -31,7 +31,7 @@ Xasena
 
 
 
-<a><img src='https://i.imgur.com/sPBOwto.jpeg'/></a>
+<a><img src='https://i.imgur.com/sPBOwto.png'/></a>
 
  
 
