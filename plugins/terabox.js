@@ -12,8 +12,8 @@ command(
     async (message, match) => {
     	match = match || message.reply_message.text
    if (!match)return message.reply(`*_Need Terabox Link_*\n*Nb:- Please provide link less than 100MB*`)
-let zeta = await getJson(`https://terabox-app.vercel.app/api?data=${match}`);
-return await message.sendFromUrl(zeta.direct_link, { caption: (X.CAPTION)})
+let zenitsu = await getJson(`https://terabox-app.vercel.app/api?data=${match}`);
+return await message.sendFromUrl(zenitsu.direct_link, { caption: (X.CAPTION)})
 });
 
-//Zeta-XD 😦🔞
+//zenitsu 😦🔞
