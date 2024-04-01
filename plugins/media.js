@@ -72,26 +72,25 @@ async function gimage(query, amount = 5) {
   });
 }
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+QUEEN NEZUKO- GOD ZENITSU
 */
-
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+QUEEN NEZUKO- GOD ZENITSU
 */
 command(
   {
     pattern: "tts",
     fromMe: isPrivate,
-    desc: "google tts by aswin sparky",
+    desc: "google tts by god zenitsu",
     type: "converter",
   },
   async (message, match, m) => {
-if (!match) return await message.reply(`*_Need Text!_*
+if (!match) return await message.reply(`*_TEXT GIV🐦!_*
 *_Example: tts Hello_*
 *_tts Hello :en_*`);
             let [txt,lang] = match.split`:`
@@ -148,10 +147,10 @@ thumbnailUrl: "https://i.imgur.com/sPBOwto.jpeg" }}, caption: (match)}, {quoted:
 
 
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
@@ -179,10 +178,10 @@ thumbnailUrl: "https://i.imgur.com/sPBOwto.jpeg" }}, caption: (config.CAPTION), 
   }
 );
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
@@ -211,10 +210,10 @@ thumbnailUrl: "https://i.imgur.com/xZ45hxR.jpeg" }}, caption: (config.CAPTION), 
   }
 );
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 const { toAudio } = require("../lib/media");
@@ -323,12 +322,11 @@ command(
   }
 );
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+QUEEN NEZUKO- GOD ZENITSU
 */
-
 /*command(
   {
     pattern: "video ?(.*)",
@@ -356,16 +354,16 @@ X-Asena - X-Electra
 
 
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+QUEEN NEZUKO- GOD ZENITSU
 */
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 /*command(
@@ -397,10 +395,10 @@ X-Asena - X-Electra
     }
   }
 );*/
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 
@@ -442,10 +440,10 @@ X-Asena - X-Electra
   }
 );*/
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 /*command(
@@ -469,10 +467,10 @@ X-Asena - X-Electra
   }
 );
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 /*command(
