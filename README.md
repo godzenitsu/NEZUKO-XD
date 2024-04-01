@@ -9,7 +9,7 @@ Xasena
 
 1. Get Session I'D.
     <br>
-<a href='NULL' target="_blank"><img alt='COMING SOON' src='https://img.shields.io/badge/get_session-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='NULL' target="_blank"><img alt='COMING SOON' src='https://img.shields.io/badge/COMING-SOON-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ***
 ### Deploy
