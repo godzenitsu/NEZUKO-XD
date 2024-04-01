@@ -20,6 +20,6 @@ mediaUrl: "",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/PRKcWJ0.jpeg" }}, quoted: message }, "audio");
+thumbnailUrl: "https://i.imgur.com/xZ45hxR.jpeg" }}, quoted: message }, "audio");
   }
 );
