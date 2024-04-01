@@ -13,4 +13,4 @@ message.reply("```" + `SUDO number are : ${zeta}` + "```")
   }
 );
 
-// Zeta-XD 😦
+// ub God zenitsu🌀
