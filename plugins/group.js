@@ -30,10 +30,10 @@ const Lang = {
 };
 
 
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2024 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
@@ -55,10 +55,10 @@ command(
   }
 );
 
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2024 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
@@ -80,10 +80,10 @@ command(
   }
 );
 
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
@@ -128,12 +128,11 @@ command(
   }
 );
 
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2024 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+QUEEN NEZUKO- GOD ZENITSU
 */
-
 command(
   {
     pattern: "mute",
@@ -151,10 +150,10 @@ command(
   }
 );
 
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
@@ -174,10 +173,10 @@ command(
   }
 );
 
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
@@ -206,12 +205,11 @@ command(
   }
 );
 
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+QUEEN NEZUKO- GOD ZENITSU
 */
-
 command(
   {
     pattern: "aunmute",
@@ -239,12 +237,11 @@ command(
   }
 );
 
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+QUEEN NEZUKO- GOD ZENITSU
 */
-
 command(
   {
     pattern: "gjid",
@@ -266,10 +263,10 @@ command(
   }
 );
 
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 
@@ -293,10 +290,10 @@ command(
   }
 );
 
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 
@@ -318,10 +315,10 @@ command(
   }
 );
 
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
@@ -354,10 +351,10 @@ command(
   }
 );
 
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
@@ -376,12 +373,11 @@ command(
   }
 );
 
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+QUEEN NEZUKO- GOD ZENITSU
 */
-
 command(
   {
     pattern: "revoke ?(.*)",
@@ -398,10 +394,10 @@ command(
   }
 );
 
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
@@ -420,12 +416,11 @@ command(
   }
 );
 
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+QUEEN NEZUKO- GOD ZENITSU
 */
-
 command(
   {
     pattern: "lock ?(.*)",
@@ -443,10 +438,10 @@ command(
   }
 );
 
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
@@ -466,12 +461,11 @@ command(
 );
   
 
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+QUEEN NEZUKO- GOD ZENITSU
 */
-
 command(
   {
     pattern: "gname ?(.*)",
@@ -490,12 +484,11 @@ command(
   }
 );
 
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+QUEEN NEZUKO- GOD ZENITSU
 */
-
 command(
   {
     pattern: "gdesc ?(.*)",
@@ -514,12 +507,11 @@ command(
   }
 );
 
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+QUEEN NEZUKO- GOD ZENITSU
 */
-
 command(
   {
     pattern: "gpp$",
@@ -571,10 +563,10 @@ async function generateProfilePicture(buffer) {
 }
 
 
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 
@@ -592,10 +584,10 @@ command(
 );
 
 
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
@@ -636,10 +628,10 @@ command(
 );
 
 
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
@@ -683,10 +675,10 @@ command({ on: "text", fromMe: isPrivate }, async (message, match) => {
 });
 
 
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
