@@ -22,7 +22,7 @@ Xasena
 
 2. Now Deploy
     <br>
-<a href='https://heroku.com/deploy?template=https://github.com/godzenitsu/NEZUKO-XD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://heroku.com/deploy?template=https://github.com/godzenitsu/QUEEN-NEZUKO' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 ***
@@ -43,7 +43,7 @@ Xasena
 <br>
 
 
-* [`External PLUGINS`](https://github.com/Louis-XD/External-Plugins-Ezra)
+* [`External PLUGINS`](https://github.com/godzenitsu/nezuko-plugins)
 
 ### Thanks To
 
