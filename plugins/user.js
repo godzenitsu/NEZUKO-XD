@@ -18,10 +18,10 @@ const got = require("got");
 const fs = require("fs");
 const { PluginDB, installPlugin } = require("../lib/database/plugins");
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
@@ -42,10 +42,10 @@ await new Promise(t => setTimeout(t,0))
 ${speed} *𝚖𝚜*` , edit: key});
 })
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 
@@ -97,10 +97,10 @@ async function generateProfilePicture(buffer) {
 }
 
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
@@ -125,10 +125,10 @@ command(
   }
 );
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
@@ -153,10 +153,10 @@ command(
   }
 );
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
@@ -173,10 +173,10 @@ command(
   }
 );
 
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
@@ -194,11 +194,11 @@ command(
 );
 
 
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - */
-
+QUEEN NEZUKO- GOD ZENITSU
+*/
 command(
   {
     pattern: "menu",
@@ -281,10 +281,10 @@ message.reply(e)
   }
 );
 
-/* Copyright (C) 2024 Louis-X0.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
@@ -325,14 +325,14 @@ mediaUrl: "https://instagram.com/whoois.zenitsu",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/PRKcWJ0.jpeg" }} }) })
+thumbnailUrl: "https://i.imgur.com/xZ45hxR.jpeg" }} }) })
 
 
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
@@ -379,17 +379,17 @@ command(
         await installPlugin(url, plugin_name);
 
         await message.sendMessage(
-          `*_New plugin installed : ${commands.join(",")}_*`
+          `*_𝘕𝘌𝘞 𝘗𝘓𝘜𝘎𝘐𝘕 𝘐𝘕𝘚𝘛𝘈𝘓𝘓𝘌𝘋 : ${commands.join(",")}_*`
         );
       }
     }
   }
 );
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
@@ -417,10 +417,10 @@ command(
   }
 );
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
@@ -455,7 +455,7 @@ command(
 	type: 'user'
 }, async (message, match) => {
 	match = match || message.reply_message.text
-	if (!match) return await message.reply('*_Need Text_!*\n *Example: setbio _Ezra-XD_*.')
+	if (!match) return await message.reply('*_Need Text_!*\n *Example: setbio _NEZUKO_*.')
 	await message.client.updateProfileStatus(match)
 	await message.reply('*_Successfully bio updated_*')
 })
