@@ -1,4 +1,4 @@
-/* Copyright (C) 2022 QUEEN NEZUKO.
+/* Copyright (C) 2024 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 QUEEN NEZUKO- GOD ZENITSU
@@ -45,10 +45,10 @@ const {
 const util = require("util");
 const config = require("../config");
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2024 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command({pattern:'eval', on: "text", fromMe: true,desc :'Runs a server code'}, async (message, match, m, client) => {
