@@ -10,10 +10,10 @@ const git = simpleGit();
 const exec = require("child_process").exec;
 const { SUDO } = require("../config");
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
@@ -32,10 +32,10 @@ command(
   }
 );
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
@@ -63,10 +63,10 @@ command(
   }
 );
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
@@ -106,34 +106,34 @@ Remaning    : ${secondsToDHMS(remaining)}`;
   }
 );
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
@@ -160,10 +160,10 @@ command(
   }
 );
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2022 QUEEN NEZUKO.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Louis-X0 - Zeta-X0
+QUEEN NEZUKO- GOD ZENITSU
 */
 
 command(
@@ -240,8 +240,8 @@ command(
   async (message) => {}
 );
 
-//Credits Zeta-X0
-//created by Abhiy
+//Credits GOD ZENITSU
+//created by ZENITSU
 
 command(
   { pattern: "getsudo ?(.*)", 
