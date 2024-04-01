@@ -67,7 +67,7 @@ mediaUrl: "",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/PRKcWJ0.jpeg" }}, caption: (zeta)}, {quoted: message })
+thumbnailUrl: "https://i.imgur.com/xZ45hxR.jpeg" }}, caption: (nezuko)}, {quoted: message })
     }
     );
 
@@ -103,9 +103,9 @@ mediaUrl: "",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/PRKcWJ0.jpeg" }} },{ quoted: message })
+thumbnailUrl: "https://i.imgur.com/xZ45hxR.jpeg" }} },{ quoted: message })
 }
   }
 );
 
-// Zeta-XD 
+// Zenitsu
