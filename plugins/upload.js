@@ -20,7 +20,7 @@ mediaUrl: "",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/PRKcWJ0.jpeg" }}, caption: (X.CAPTION)}, {quoted: message})
+thumbnailUrl: "https://i.imgur.com/xZ45hxR.jpeg" }}, caption: (X.CAPTION)}, {quoted: message})
 });
 
-// Zeta-XD
+// ZENITSU
