@@ -14,17 +14,28 @@ const got = require("got");
 const config = require("./config");
 const { PluginDB } = require("./lib/database/plugins");
 const Greetings = require("./lib/Greetings");
-const { MakeSession } = require("./lib/session");
 const store = makeInMemoryStore({
   logger: pino().child({ level: "silent", stream: "store" }),
 });
 
 require("events").EventEmitter.defaultMaxListeners = 500;
       
-if (!fs.existsSync("./lib/session/creds.json")) {
-  MakeSession(config.SESSION_ID, "lib/session", "mongodb+srv://ajsalsd:rioHWvIFV7nkxkWz@cluster0.d0hnfmp.mongodb.net/?retryWrites=true&w=majority").then(
-    console.log("Vesrion : " + require("./package.json").version)
-  );
+async function downloadSessionData() {
+    if (!config.SESSION_ID) {
+        console.error('Please put your session to SESSION_ID env !!');
+        process.exit(1)
+    }
+    var Ameen = config.SESSION_ID
+    var Miya = Ameen.replace('NeZuKo~', '')
+    var Meera = File.fromURL(`https://mega.nz/file/${Miya}`)
+    Meera.download((err, data) => {
+        if (err) throw err
+        fs.writeFile(credsPath, data, () => {
+        console.log("Session Saved[🌟]")
+     })})}
+if (!fs.existsSync(credsPath)) {
+    await downloadSessionData()
+      }
 }
 fs.readdirSync("./lib/database/").forEach((plugin) => {
   if (path.extname(plugin).toLowerCase() == ".js") {
@@ -36,8 +47,7 @@ async function Abhiy() {
   console.log("Syncing Database");
   await config.DATABASE.sync();
 
-  const { state, saveCreds } = await useMultiFileAuthState(
-  "./lib/session" ,
+  
     pino({ level: "silent" })
   );
   let conn = makeWASocket({
