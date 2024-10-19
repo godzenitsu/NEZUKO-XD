@@ -3,14 +3,14 @@ services:
     name: NEZUKO-V2
     env: node
     branch: main
-    repo: https://github.com/W-i-z-z-k-i-d/NEZUKO-V2.git
+    repo: https://github.com/godzenitsu/NEZUKO-XD.git
     buildCommand: npm install
     startCommand: npm start
     plan: free
-    autoDeploy: false
+    autoDeploy: true
     envVars:
       - key: SESSION_ID
-        sync: false
+        value: NeZuKo~dZQhFSBQ#gm9oE_O7aSB4pdcFhTSrfNth81iWBrdnRre1tKag7VY
       - key: BOT_INFO
         value: Qᴜᴇᴇɴ-Nᴇᴢᴜᴋᴏ;Gᴏᴅ-Zᴇɴɪᴛꜱᴜ;https://graph.org/file/3879cf1910f65bd8457d7.jpg
       - key: ALWAYS_ONLINE
@@ -33,7 +33,5 @@ services:
         value: 917025673121
       - key: SERVERURL
         value:
-      - key: DATABASE_URL
-        sync: false
       - key: LOGS
         value: true
